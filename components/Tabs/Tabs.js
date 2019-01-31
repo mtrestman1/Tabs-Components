@@ -58,7 +58,7 @@ class TabItem {
   }
 }
 
-/* START HERE: 
+/* START HERE::
 
 - Select all classes named ".tabs-link" and assign that value to the links variable
 
